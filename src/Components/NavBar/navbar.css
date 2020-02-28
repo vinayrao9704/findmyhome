@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    width: 100%;
+    height: 3rem;
+    background-color: coral;
+    color: white;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.main-logo {
+    display: flex;
+    width: 25%;
+    justify-content: space-evenly;
+}
+
+.links {
+    width: 40%;
+}
+
+.SignInLinks-links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.SignInLinks-links Link {
+    color: white;
+}
